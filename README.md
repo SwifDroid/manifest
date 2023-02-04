@@ -1,0 +1,3 @@
+# Manifest
+
+Application manifest wrapper.
